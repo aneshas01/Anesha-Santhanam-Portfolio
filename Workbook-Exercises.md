@@ -49,9 +49,17 @@ In the new version I sketched, I made sure to include the labeling of what the m
 
 ![image](https://github.com/user-attachments/assets/6483121c-f9d5-4673-b6e3-4a1911334f79)
 
+## Practicing Persuasion - Week Five
 
+1. The chart unfairly manipulates the user in many ways. The first is that the Y-axis measurements are not equal on both sides. The left side’s measurement ends on a much higher number (1000) than the right side’s highest number (200). This gives the impression that the Elan share price is somehow higher than Pomme share price, which is untrue. The other manipulation is the lines of the graph. The graph is drawn to show that the Elan line is going above the Pomme line, as if Elan’s end value is much higher than Pomme. However, this is not true since the scales differ, and Pomme is actually much higher than Elan, despite Elan increasing at a higher pace. Another manipulation of the graphs is that the title indicates a story that does not necessarily match the graph’s visual. The title indicates that Elan has overtaken Pomme, but the graph’s mismatched values confuse the viewer as to whether they have done this or not. 
 
+![image](https://github.com/user-attachments/assets/2fdf9943-2b6c-4142-823a-e9803a91f40b)
 
+2. This version better reflects reality since the Y axis of both stock prices are the same, so they are on equal ground in the graph. This allows both stock price changes to be equally compared with the same measurement system.
 
+![image](https://github.com/user-attachments/assets/5c8a0b68-17a8-46ba-86c9-2c2ad27233ff)
 
+3. This graph shows the difference in stock price for each stock in the designated time period. This shows that Elan is a better investment because its price went up and is increasing positively, and that Pomme’s price went down and is not increasing like Elan’s is. Elan’s bar is colored green to show that it is the better investment, while Pomme’s bar is colored red to show that it is the worse investment.
+
+![image](https://github.com/user-attachments/assets/18ccfafd-dcb4-4547-a73c-147c40f9af03)
 
