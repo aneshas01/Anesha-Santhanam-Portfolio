@@ -15,5 +15,7 @@ https://www.canva.com/
 
 ![image](https://github.com/user-attachments/assets/2865ac99-e7b9-46a8-8b6c-c22f94c8b569)
 
-
+Citations:
+https://www.schemecolor.com/pink-rose-shades-color-palette.php
+https://unsplash.com/
 
