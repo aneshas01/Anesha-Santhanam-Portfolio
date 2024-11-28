@@ -1,5 +1,5 @@
 # Anesha Santhanam Portfolio (CMU Telling Stories with Data)
-[HOME](https://aneshas01.github.io/Anesha-Santhanam-Portfolio/) | [IN-CLASS EXERCISES](In-Class-Exercises) | [WORKBOOK EXERCISES](Workbook-Exercises) | [VISUALIZING GOVERNMENT DEBT](Visualizing-Government-Debt) | [CRITIQUE BY DESIGN](Critique-By-Design) | [FINAL PROJECT PART 1](Final-Project-Part1) | [FINAL PROJECT PART 2] | [FINAL PROJECT PART 3] 
+[HOME](https://aneshas01.github.io/Anesha-Santhanam-Portfolio/) | [IN-CLASS EXERCISES](In-Class-Exercises) | [WORKBOOK EXERCISES](Workbook-Exercises) | [VISUALIZING GOVERNMENT DEBT](Visualizing-Government-Debt) | [CRITIQUE BY DESIGN](Critique-By-Design) | [FINAL PROJECT PART 1](Final-Project-Part1) | [FINAL PROJECT PART 2](Final-Project-Part2) | [FINAL PROJECT PART 3] 
 
 Portfolio of all work completed in the Telling Stories with Data course at Carnegie Mellon University during Fall 2024.
 
