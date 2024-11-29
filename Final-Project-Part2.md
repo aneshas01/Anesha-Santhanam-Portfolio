@@ -82,6 +82,20 @@ Experience: this participant has a low experience with dating. He has not explor
 
 **Quotes on the Visualization:**
 
+"I like how the text is next to graphs so I can get an explanation immediately."
+
+"I want to see more demographic graphs such as on ethnicity."
+
+"It may be helpful to state the bottom line up front for each section and eliminate too much text."
+
+**Follow-Up Questions**
+
+1. The online vs in person graph was the clearest and really got to the point.
+2. The heatmap was a bit vague, more clarification is needed and maybe different colors.
+3. I noticed the titles first on the pages, they were helpful.
+4. The color scheme is too monotone, more colors would be nice.
+5. The takeaway is I should test my luck with online dating. I would like to know which apps though. 
+
 ## Participant D: Research Findings
 
 Demographics: Age 23, South Asian, male, full-time employee , non-international, living in U.S., queer. 
