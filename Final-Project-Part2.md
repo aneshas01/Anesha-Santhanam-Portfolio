@@ -2,6 +2,7 @@
 
 ## Shorthand Draft / Storyboard 
 
+[Dating for Success - Visualization](https://carnegiemellon.shorthandstories.com/dating-for-success/index.html)
 
 ## User Research Protocol
 
