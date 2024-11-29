@@ -61,6 +61,19 @@ Experience: this participant has a low experience with dating, but high experien
 
 **Quotes on the Visualization:**
 
+"I like the structure but I would want it to be more interesting with moving elements."
+
+"The graphs are very helpful but lacking complexity."
+
+"I like the dividers for the headers which makes it clear what I am reading."
+
+**Follow-Up Questions**
+1. The heterosexual vs queer dating graph was interesting, I liked the multiple bar layout.
+2. The heatmap should have a key because it was unknown whether darker = more relationships.
+3. I first noticed the bright pink colors on the page.
+4. I like the pink but a mix of pink and purple or another color would be bettet.
+5. The takeaway for me is that dating styles differ for different demographics. 
+
 ## Participant C: Research Findings
 
 Demographics: Age 28, East Asian, male, full-time student, international, living in U.S., heterosexual. 
