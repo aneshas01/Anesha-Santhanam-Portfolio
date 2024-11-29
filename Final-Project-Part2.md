@@ -37,6 +37,19 @@ Experience: this participant has moderate experience with dating. She has dated 
 
 **Quotes on the Visualization:**
 
+"I like the pink color scheme since for me it represents dating or love."
+
+"I wish the sketches had a similar color scheme since the colors are kind of random."
+
+"The theme is very interesting. The table at the end should be bigger becuase that is what I'm most interested in as a reader."
+
+**Follow-Up Questions**
+
+1. The online vs in-person graph. Very easy to read.
+2. No but I would like different types of graphs for more variety.
+3. I first noticed the titles which are very clear.
+4. I loved the pink color scheme.
+5. The takeaway for me was that I might find more love online than in-person! 
 
 ## Participant B: Research Findings
 
