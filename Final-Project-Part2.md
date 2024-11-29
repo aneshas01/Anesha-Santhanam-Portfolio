@@ -104,6 +104,20 @@ Experience: this participant has a high experience in dating online. He exclusiv
 
 **Quotes on the Visualization:**
 
+"The graphs and explanations side by side are very helpful."
+
+"The heatmap should take up the whole screen, that would be cool."
+
+"I would like more in-detail graphs to cover all demographics."
+
+**Follow-Up Questions**
+
+1. The heatmap of the country was the graph that stood out, it was cool yo look at.
+2. The double bar graph could be a little clearer, I would like more complex graphs.
+3. I first noticed the top of the page, which had the main menu.
+4. I liked the color scheme! I think some variety would be nice.
+5. My takeaway was that online dating may work better for queer dating than heterosexual dating. 
+
 ## Overall Findings and Changes to Be Implemented
 
 
