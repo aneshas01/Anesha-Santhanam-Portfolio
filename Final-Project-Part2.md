@@ -25,15 +25,44 @@ Follow-Up Questions:
 
 ## Participant A: Research Findings
 
+**Description:**
+
+Demographics: Age 25, White, female, full-time employee, non-international, living in U.S., heterosexual. 
+
+Experience: this participant has moderate experience with dating. She has dated both in-person and online, and is currently single. She is on numerous dating apps and also goes to events where she hopes to meet people socially. She has made time to explore dating more since she aims to get into a serious relationship. 
+
+**Quotes on the Visualization:**
+
+
 ## Participant B: Research Findings
+
+**Description:**
+
+Demographics: Age 22, Hispanic, female, full-time student, international, living in U.S., queer. 
+
+Experience: this participant has a low experience with dating, but high experience in having a successful relationship. She has dated only in-person, and is currently in a healthy relationship. She has many friends who are single and in the dating scene, and finds this topic generally interesting to read about. 
+
+**Quotes on the Visualization:**
 
 ## Participant C: Research Findings
 
+Demographics: Age 28, East Asian, male, full-time student, international, living in U.S., heterosexual. 
+
+Experience: this participant has a low experience with dating. He has not explored his options much online or in-person due to the pursuing of multiple degrees. Now that he has time to start exploring options, he wants to know whether to go the online route or try to find someone in-person.
+
+**Quotes on the Visualization:**
+
+## Participant D: Research Findings
+
+Demographics: Age 23, South Asian, male, full-time employee , non-international, living in U.S., queer. 
+
+Experience: this participant has a high experience in dating online. He exclusively uses online apps to date, and feels as though he will not have as much success with in-person dating. He has had limited success online, so he is open to changing the method he uses. He is looking forward to seeing if statistically, he is making the right decisions with his dating methods.  
+
+**Quotes on the Visualization:**
+
 ## Overall Findings and Changes to Be Implemented
 
-**Participant A:**
 
-Demographics: age 
 
 
 ## Mood Board
