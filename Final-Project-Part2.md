@@ -120,7 +120,16 @@ Experience: this participant has a high experience in dating online. He exclusiv
 
 ## Overall Findings and Changes to Be Implemented
 
+My overall findings are that even though most participants liked the general layout of the report, there are many improvements to be made. Some similarities across all participants were that they wanted more variety in the color scheme, more specific demographic information, more variety in the types of graphs used, and more complexity in the graph content. 
 
+I will be implementing the following changes to my visualization after user feedback: 
+1. I will edit the color scheme to be broader, including orange, pink, red, and purple. This spectrum allows for a wider color scheme to be used in pictures, fonts and even the graph colors.
+2. I will include more graph types such as double bar graphs, line graphs, heatmaps, and other charts in order to show data more clearly.
+3. I will expand my research so that I have thorough information on demographics in relation to ethnicity.
+4. I will edit the country heat map to have a proper key.
+5. I will change the color scheme of the graphs to match the color scheme of my presentation.
+6. I will make my presentation more full, complex, and detailed.
+7. I will make the final key takeaway the table of demographics and success rate per demographic, and put emphasis on it at the end of the presentation. 
 
 
 ## Mood Board
