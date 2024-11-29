@@ -3,14 +3,37 @@
 ## User Research Protocol
 
 **Target Audience:** 
+
 Since I am presenting to my classmates, which is made up of adults studying in a university in the United States, my target audience is U.S. adults. I would like the audience (my classmates) to relate directly to my data visualization and presentation, and see themselves represented in my data. The target audience demographics are a nearly even mix of genders, both international and domestic, students in college, some work experience, and adult living in the U.S.
 
 **Approach:** 
+
 I will identify representative individuals to interview by selecting my interviewees to match my target audience. Therefore, I will make sure that each interviewer fits the same demographics as my audience, which is student or employee, preferably a person of color, and an adult currently living in the U.S. There are other personal demographics of my audience which I do not know, so I will include a variety of these, such as dating experience and sexual orientation, which are integral to the study. I will therefore make sure I have participants of different sexual orientations and differnt dating experiences (both online and offline) and relationship statuses (dating, single, or other). 
 
 **Interview Script:**
 
-Introduc
+Introduction: Hi, thank you for participating in this user research for my project. I will provide you the link to a visualization. Please go through it on your own and note aloud things you notice, what you notice first, what you like, dislike, and other general thoughts. The data in the visualization is currently being worked on, so please do not view data in the visualization as completely accurate/final. Rather, please assume this data is correct for purposes of this study. 
+
+(Particpant goes through the visualization and talks through it, noting thoughts aloud)
+
+Follow-Up Questions:
+1. Which graph stood out to you the most?
+2. Were there any graphs which were confusing to you, and why?
+3. What did you first notice when going through the visualization?
+4. What are your thoughts about the color scheme?
+5. What was your key takeaway from the visualization?
+
+## Participant A: Research Findings
+
+## Participant B: Research Findings
+
+## Participant C: Research Findings
+
+## Overall Findings and Changes to Be Implemented
+
+**Participant A:**
+
+Demographics: age 
 
 
 ## Mood Board
