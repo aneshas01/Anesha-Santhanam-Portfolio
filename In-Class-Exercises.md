@@ -26,6 +26,17 @@ Challenge 2 (FIFA Athletes)
 
 ![image](https://github.com/user-attachments/assets/f610abb2-b25e-4c5b-b241-bc677c3d83f4)
 
+## Challenge Exercise: Visualize Link and Node Data Using Kepler.gl
+The first dataset shows donors and receipents for 412 food bank, I labeled donors in blue and recipients in red. I see that there is a lot of concentration near downtown pittsburgh and donors are more centralized while recipients are more spread out. The areas surrounding campus and outside of campus likely are in more need of donations. 
+
+![image](https://github.com/user-attachments/assets/5272f0c9-1a71-4a81-9e04-6c3c2d69e53a)
+
+The second batch of data shows arcs while help visualize from where to where the donations have been sent. I changed the colors to represent red for the recipients and blue for the donors. The arc changes as it moves further towards the donor points, which shows where the food is going. It is clear that a lot of the food is going out from the CMU/Oakland area to areas outside of the college/university area as shown by the arcs. 
+
+![image](https://github.com/user-attachments/assets/fe322ce6-ddfd-417e-846a-79ab9fbfc400)
+
+
+
 
 
 
