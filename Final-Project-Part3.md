@@ -29,7 +29,20 @@ Based on this feedback, I implemented the following changes (as mentioned in Par
 4. I will edit the country heat map to have a proper key.
 5. I will change the color scheme of the graphs to match the color scheme of my presentation.
 6. I will make my presentation more full, complex, and detailed.
-7. I will make the final key takeaway the table of demographics and success rate per demographic, and put emphasis on it at the end of the presentation. 
+7. I will make the final key takeaway the table of demographics and success rate per demographic, and put emphasis on it at the end of the presentation.
+
+**Final Sources Used for Data:**
+https://www.pewresearch.org/short-reads/2023/02/02/key-findings-about-online-dating-in-the-u-s/
+
+https://ssrs.com/insights/the-public-and-online-dating-in-2024/ 
+
+https://www.pnas.org/doi/10.1073/pnas.1908630116
+
+https://thrivingcenterofpsych.com/blog/dating-in-2023-here-is-where-most-singles-are-living-in-the-us/ 
+
+https://www.pewresearch.org/short-reads/2023/06/26/about-half-of-lesbian-gay-and-bisexual-adults-have-used-online-dating/ 
+
+https://phys.org/news/2024-10-dating-apps-sites-diverse-couples.html 
 
 ## Summary of Design Decisions and Changes Made in Part 3
 
